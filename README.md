@@ -206,4 +206,3 @@ Group B, Batch 2029 - Building Web Applications with React
 ## 📄 License
 
 This project is built for educational purposes as part of an end-term project submission.
->>>>>>> 7f9ab003e110b2eb5ababdca67349e55352ff26a
